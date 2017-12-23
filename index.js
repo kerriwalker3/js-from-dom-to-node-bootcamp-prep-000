@@ -1,3 +1,3 @@
 // write your code below!
-console.log("Hello, World!")
-cd labs
+ccd labs
+onsole.log("Hello, World!")
